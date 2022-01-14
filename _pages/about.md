@@ -16,4 +16,8 @@ I believe that math should be made as clear and intuitive as possible. I love sh
 
 I especially enjoy making hands on interactive math games. Some examples are below.
 
-(../images/snake.gif) (../images/parallelogram.gif) (../images/radians.gif)
+(/Users/faculty/Src/raizada-tutoring.github.io/images/snake.gif)
+
+(/Users/faculty/Src/raizada-tutoring.github.io/images/parallelogram.gif)
+
+(/Users/faculty/Src/raizada-tutoring.github.io/images/radians.gif)
