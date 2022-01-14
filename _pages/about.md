@@ -16,8 +16,8 @@ I believe that math should be made as clear and intuitive as possible. I love sh
 
 I especially enjoy making hands on interactive math games. Some examples are below.
 
-![](/images/snake.gif)
+Teaching angles as a space invaders game: ![](/images/radians.gif)
 
-![](/images/parallelogram.gif)
+Roots and intercepts of polynomials as a snake game: ![](/images/snake.gif)
 
-![](/images/radians.gif)
+Interactive geometry to explore what stays invariant. The midpoints of the quadrilateral always form a parallelogram: ![](/images/parallelogram.gif)
