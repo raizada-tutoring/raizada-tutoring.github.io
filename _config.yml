@@ -82,12 +82,12 @@ analytics:
 author:
   name             : #"Dr. Rajeev Raizada"
   avatar           : "profile.png"
-  bio              :
+  bio              : rajeev.raizada@gmail.com
   location         : #"NYC"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "rajeev.raizada@gmail.com"
+  email            : #"rajeev.raizada@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
